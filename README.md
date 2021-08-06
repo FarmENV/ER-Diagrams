@@ -9,4 +9,4 @@ Entity relationship diagrams
 ## Application diagram (User information)
 [Link to the diagram](https://app.diagrams.net/?src=about#HFarmENV%2FER-Diagrams%2Fmaster%2FER-APP-Diagram.drawio)
 ---
-![IoT Diagram](https://raw.githubusercontent.com/FarmENV/ER-Diagrams/master/ER-APP-Diagram.pngk)
+![IoT Diagram](https://raw.githubusercontent.com/FarmENV/ER-Diagrams/master/ER-APP-Diagram.png)
